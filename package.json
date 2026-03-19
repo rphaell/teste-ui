@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/rphaell/teste-ui#readme",
   "devDependencies": {
+    "@faker-js/faker": "^10.3.0",
     "cypress": "^15.12.0"
   }
 }
